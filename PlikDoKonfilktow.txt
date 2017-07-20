@@ -1,3 +1,4 @@
 Witaj swiecie!
+linijka z mastera
 to plik do konfliku
 co sie bedzie dzialo
