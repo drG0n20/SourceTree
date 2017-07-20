@@ -1,3 +1,4 @@
 Witaj swiecie!
 to plik do konfliku
+to jest fragment z brancha
 co sie bedzie dzialo
