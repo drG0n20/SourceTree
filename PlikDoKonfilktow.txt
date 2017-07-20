@@ -1,4 +1,5 @@
 Witaj swiecie!
+linijka z mastera
 to plik do konfliku
 to jest fragment z brancha
 co sie bedzie dzialo
