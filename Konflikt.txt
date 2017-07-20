@@ -4,3 +4,7 @@ brankch
 konflikt
 brankch
 jakis napis
+konflikt
+jakis napis
+konflikt master
+
